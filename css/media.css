@@ -23,7 +23,7 @@
 	  position: absolute;
 	}
 
-	.bar1, .bar2, .bar3 {
+	.bar__top, .bar__middle, .bar__bottom {
 	  width: 23px;
 	  height: 3px;
 	  background-color: #fff;
@@ -35,7 +35,7 @@
 		display: none;
 	}
 
-	.title {
+	.head__title {
 		width: 620px;
 		font-size: 40px;
 	}
@@ -53,7 +53,7 @@
 		padding-top: 95px;
 	}
 
-	.trend:nth-child(n+3){
+	.top{
 		margin-top: .5%; 
 	}
 	.trend__title {
@@ -92,7 +92,7 @@
 	.shop__item {
   	width: 48%;
 }
-	.shop__item:nth-child(n+3) {
+	.upp {
 		margin-top: 45px; 
 	}
 
@@ -126,7 +126,7 @@
 	  position: absolute;
 	}
 
-	.bar1, .bar2, .bar3 {
+	.bar__top, .bar__middle, .bar__bottom {
 	  width: 23px;
 	  height: 3px;
 	  background-color: #fff;
@@ -155,7 +155,7 @@
         margin: 166px auto 0;
     }
 
-	.title {
+	.head__title {
 		width: 280px;
 		font-size: 26px;
 	}
@@ -222,7 +222,7 @@
 		width: 98%;
 	}
 
-	.shop__item:nth-child(n+2) {
+	.up {
 		margin-top: 45px; 
 	}
 
